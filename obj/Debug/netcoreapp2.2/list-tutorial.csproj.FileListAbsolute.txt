@@ -1,0 +1,11 @@
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.deps.json
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.runtimeconfig.json
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.runtimeconfig.dev.json
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.dll
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.pdb
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.csprojAssemblyReference.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.csproj.CoreCompileInputs.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.AssemblyInfoInputs.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.AssemblyInfo.cs
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.dll
+/Users/francisco/Google Drive/Bootcamp/Practica/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.pdb
